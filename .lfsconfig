@@ -1,2 +1,2 @@
 [lfs]
-url = "https://lfs.heyn.dev/lfs-test.git/info/lfs"
+url = "https://lfs.heyn.dev:8080"
